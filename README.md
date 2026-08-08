@@ -16,11 +16,11 @@ Governing aesthetic law: **crude design, precise execution — the gap is the jo
 |---|---|
 | `rev_h.docx` | Program baseline document, **Rev. H (frozen)** — the plan of record |
 | `diagram/` | Program diagrams (SVG): engine cross-section, hardwired safety chain, hot-fire range layout |
-| `izdelie-256.html` | Self-contained web version of the plan (photos + diagrams embedded) |
+| `index.html` | Self-contained web version of the plan (photos + diagrams embedded); served as the GitHub Pages site |
 | `izdelie-256-phone.pdf` | Phone-formatted PDF export (WeChat-shareable) |
 | `izdelie-256-long.jpg` | Long-image export (长图), backup share format |
 
-Shared web version: https://claude.ai/code/artifact/236d37fb-a477-4870-83d7-e5be93dd03d9
+Shared web version: https://futuyao.github.io/izdeliye-256/
 
 ## Conventions
 
